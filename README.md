@@ -16,7 +16,7 @@
 <body>
 
     <div class="container">
-        <h1>My Blog</h1>
+        <h1>Planktonic Way</h1>
         <nav>
             <a href="index.html">Home</a>
             <a href="about.html">About</a>
