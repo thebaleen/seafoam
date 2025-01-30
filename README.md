@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Blog</title>
+    <title>Planktonic Way</title>
     <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background: #f4f4f4; }
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background: #A5AFD1; }
         .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 5px; }
         h1 { text-align: center; }
         nav { text-align: center; margin-bottom: 20px; }
