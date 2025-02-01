@@ -13,7 +13,7 @@
         article { border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 10px; }
     </style>
 </head>
-     h2 <img src="/Users/joshuasegovia/Documents/GitHub/seafoam/IMG_7799.jpg">
+    <img src="/Users/joshuasegovia/Documents/GitHub/seafoam/IMG_7799.jpg">
 <body>
 
     <div class="container">
