@@ -11,7 +11,7 @@
         nav { text-align: center; margin-bottom: 20px; }
         nav a { margin: 0 15px; text-decoration: none; color: #333; }
         article { border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 10px; }
-        h2 <img src+"/Users/joshuasegovia/Documents/GitHub/seafoam/IMG_7799.jpg"
+        <h2><img src+"/Users/joshuasegovia/Documents/GitHub/seafoam/IMG_7799.jpg"
     </style>
 </head>
 <body>
@@ -28,7 +28,7 @@
             <h2><a href="post1.html">First Blog Post</a></h2>
             <p>Published on: January 29, 2025</p>
             <p>This is a short preview of the first blog post...</p>
-            h3 <img src+"https://photos.google.com/photo/AF1QipMTubRnWB8XkXqgpMzxin2ZPE2U0gZEh3bqMQEe"> 
+            <h3><img src+"https://photos.google.com/photo/AF1QipMTubRnWB8XkXqgpMzxin2ZPE2U0gZEh3bqMQEe"> 
         </article>
 
         <article>
