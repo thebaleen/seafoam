@@ -28,7 +28,7 @@
             <h2><a href="post1.html">First Blog Post</a></h2>
             <p>Published on: January 29, 2025</p>
             <p>This is a short preview of the first blog post...</p>
-            <img src="https://photos.app.goo.gl/VrRMXzDGiqJFXZ4u8"> 
+            <img img="https://photos.app.goo.gl/VrRMXzDGiqJFXZ4u8"> 
         </article>
 
         <article>
