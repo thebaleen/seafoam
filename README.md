@@ -13,10 +13,9 @@
         article { border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 10px; }
     </style>
 </head>
-    <img src="docs/assets/css/Jellyfish.jpg">
-<body>
 
-<img src="docs/assets/css/IMG_3536.JPG">
+<body>
+    
     <div class="container">
         <h1>Planktonic Way</h1>
         <nav>
@@ -24,8 +23,10 @@
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
         </nav>
-
+    <img src="docs/assets/css/Jellyfish.jpg">
+    
         <article>
+        <img src="docs/assets/css/IMG_3536.JPG">
             <h2><a href="post1.html">First Blog Post</a></h2>
             <p>Published on: January 29, 2025</p>
             <p>This is a short preview of the first blog post...</p>
