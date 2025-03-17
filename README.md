@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Planktonic Way</title>
     <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background: #1e29ba; }
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background: #FFFFFF; }
         .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 5px; }
         h1 { text-align: center; }
         nav { text-align: center; margin-bottom: 20px; }
