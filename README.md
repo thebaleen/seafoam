@@ -22,8 +22,10 @@
             <a href="index.html">Home</a>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
-        </nav>
-    <img src="docs/assets/css/Jellyfish.jpg">
+    </nav>
+    <div style="text-align: center;">
+        <img src="docs/assets/css/Jellyfish.jpg">
+    </div>
     
         <article>
         <img src="docs/assets/css/IMG_3536.JPG">
