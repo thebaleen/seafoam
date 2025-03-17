@@ -16,6 +16,7 @@
     <img src="docs/assets/css/Jellyfish.jpg">
 <body>
 
+<img src="docs/assets/css/IMG_3536.JPG">
     <div class="container">
         <h1>Planktonic Way</h1>
         <nav>
