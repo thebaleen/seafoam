@@ -13,7 +13,7 @@
         article { border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 10px; }
     </style>
 </head>
-    <img src="OscarGrass">
+    <img src="docs/assets/css/Jellyfish.jpg">
 <body>
 
     <div class="container">
