@@ -29,7 +29,7 @@
         <img src="docs/assets/css/IMG_3536.JPG">
             <h2>Borders of the Mind, Borders of the Heart</h2>
             <p>Published on: Feburary 28, 2025</p>
-            <p>This photo was taken from an Uber going roughly 97 kpmh on my way back from Teotihuacan just North of Mexico City.</p>
+            <p>This photo was taken from an Uber going roughly 97 kph on my way back from Teotihuacan just North of Mexico City.</p>
         </article>
 
         <article>
