@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Planktonic Way</title>
     <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background: #70fdce; }
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background: #1e29ba; }
         .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 5px; }
         h1 { text-align: center; }
         nav { text-align: center; margin-bottom: 20px; }
@@ -27,7 +27,7 @@
     
         <article>
         <img src="docs/assets/css/IMG_3536.JPG">
-            <h2><a href="post1.html">First Blog Post</a></h2>
+            <h2><>First Blog Post</a></h2>
             <p>Published on: January 29, 2025</p>
             <p>This is a short preview of the first blog post...</p>
             <img img="https://photos.app.goo.gl/VrRMXzDGiqJFXZ4u8"> 
