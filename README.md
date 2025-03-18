@@ -24,7 +24,7 @@
             <a href="contact.html">Contact</a>
     </nav>
     <div style="text-align: center;">
-        <img src="docs/assets/css/Jellyfish.jpg" width="120">
+        <img src="docs/assets/css/Jellyfish.jpg" width="240">
     </div>
     
         <article>
