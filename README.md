@@ -36,6 +36,7 @@
         </article>
 
         <article>
+        <img src="docs/assets/css/HillGems.jpg">
             <h2><a href="post2.html">Second Blog Post</a></h2>
             <p>Published on: January 30, 2025</p>
             <p>This is a short preview of the second blog post...</p>
