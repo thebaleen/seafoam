@@ -15,7 +15,9 @@
 </head>
 
 <body>
-    
+      <div style="text-align: center;">
+        <img src="docs/assets/css/Jellyfish.jpg" width="240">
+    </div>
     <div class="container">
         <h1>Planktonic Way</h1>
         <nav>
@@ -23,9 +25,7 @@
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
     </nav>
-    <div style="text-align: center;">
-        <img src="docs/assets/css/Jellyfish.jpg" width="240">
-    </div>
+  
     
         <article>
         <img src="docs/assets/css/IMG_3536.JPG">
