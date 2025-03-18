@@ -37,9 +37,10 @@
 
         <article>
         <img src="docs/assets/css/HillGems.jpg">
+            <h2>I wrote a Poem in High School</h2>
             <h2><a href="post2.html">Second Blog Post</a></h2>
             <p>Published on: January 30, 2025</p>
-            <p>This is a short preview of the second blog post...</p>
+            <p>The first time I visited Mexico I was a sophomore in high school. The thing that strcuk me most were the houses. So triumphant in the day and in the night, like little gems sparkling in the hillside.</p>
         </article>
 
     </div>
